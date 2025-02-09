@@ -22,6 +22,6 @@ Since the communication was established using  the serial port between the micro
 
 ## Funding Acknowledgment
 
-This work is part of the **Hospibot** project, which is funded by [Interreg Deutschland-Danmark](https://www.interreg.eu/) 
+This work is part of the [Hospibot](https://hospibot.eu/) project, which is funded by [Interreg Deutschland-Danmark](https://www.interreg.eu/) 
 ![Interreg-Logo_bilingual_RGB](https://github.com/user-attachments/assets/40f63064-e2ca-4b7e-877a-a9f98fdd57de)
 
